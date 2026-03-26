@@ -180,15 +180,6 @@
      box-shadow: 5px 5px 10px #5c3a21;
  }
 
- @media (max-width: 768px) {
-     .container {
-         grid-template-columns: 1fr;
-         /* 1 seule colonne */
-         text-align: center;
-     }
- }
-
-
 
  .competences { /*titre de competence*/
      color: #5c3a21;
